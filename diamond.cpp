@@ -1,3 +1,16 @@
+/* This algorithm is about printing a diamond shape pattern of a given integer
+    input: interger value from the user.
+    output: print the following pattern
+      if n = 5
+                  1 
+               2  1  2
+            3  2  1  2  3
+         4  3  2  1  2  3  4
+      5  4  3  2  1  2  3  4  5
+         4  3  2  1  2  3  4
+	    3  2  1  2  3
+	       2  1  2
+	          1       */
 #include<iostream>
 
 using namespace std;
