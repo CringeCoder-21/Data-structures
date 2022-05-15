@@ -1,6 +1,8 @@
 # Data-structures
-Here are the program codes for some of the data structures applications.
-Language: Python
-Version: 3.9.5
-Note: for running this code, minimum of python 3 is required so please make sure about it.
-Note: I am still working on other data structure applications and will update other programs later.
+This section is related to data structures and algorithms.
+I will be sharing some of the most common programming questions related to data structures.
+Language: Python, c++.
+software/IDE used: for python: vscode
+                   for C++: dev C++
+                   for java: vscode
+I will also cover some common algorithms related to array and string manipulation on this section.
