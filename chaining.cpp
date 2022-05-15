@@ -1,3 +1,4 @@
+// This program is about implementing hashing using seperate chaining method using c++//
 #include<iostream>
 #include<bits/stdc++.h>
 #include<list>
